@@ -2,19 +2,6 @@
 <search> 
   
   
-    
-    <entry>
-      <title>ww</title>
-      <link href="/2025/05/05/ww/"/>
-      <url>/2025/05/05/ww/</url>
-      
-        <content type="html"><![CDATA[<h2>test</h2><pre class="line-numbers language-python" data-language="python"><code class="language-python">s <span class="token operator">=</span> <span class="token builtin">input</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span>strip<span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span>lower<span class="token punctuation">(</span><span class="token punctuation">)</span>  <span class="token comment"># 转换为全小写</span>count <span class="token operator">=</span> <span class="token punctuation">{</span><span class="token punctuation">}</span><span class="token keyword">for</span> char <span class="token keyword">in</span> s<span class="token punctuation">:</span>    <span class="token keyword">if</span> char<span class="token punctuation">.</span>isalpha<span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>  <span class="token comment"># 仅处理字母字符</span>        count<span class="token punctuation">[</span>char<span class="token punctuation">]</span> <span class="token operator">=</span> count<span class="token punctuation">.</span>get<span class="token punctuation">(</span>char<span class="token punctuation">,</span> <span class="token number">0</span><span class="token punctuation">)</span> <span class="token operator">+</span> <span class="token number">1</span><span class="token keyword">print</span><span class="token punctuation">(</span>count<span class="token punctuation">)</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
-      
-      
-      
-    </entry>
-    
-    
   
   
 </search>
